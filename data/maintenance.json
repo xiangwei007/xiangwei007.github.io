@@ -1,0 +1,32 @@
+{
+  "platformMinVersions": [
+    {
+      "platform": "web",
+      "status": true,
+      "minVersion": "0.1.121"
+    },
+    {
+      "platform": "ios",
+      "status": true,
+      "minVersion": "0.1.121"
+    },
+    {
+      "platform": "android",
+      "status": true,
+      "minVersion": "0.1.121"
+    },
+    {
+      "platform": "huawei",
+      "status": true,
+      "minVersion": "0.1.121"
+    }
+  ],
+  "startDate": "01-01-2026, 00:00:01",
+  "endDate": "31-12-2026, 23:59:59",
+  "titleEng": "Under Maintenance Test",
+  "titleChn": "维护中……",
+  "descriptionEng": "Currently under maintenance...",
+  "descriptionChn": "目前正处于维护中……",
+  "ctaTitleEng": "Close App",
+  "ctaTitleChn": "关闭应用程序"
+}
