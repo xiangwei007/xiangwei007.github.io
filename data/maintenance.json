@@ -3,7 +3,7 @@
     {
       "platform": "web",
       "status": true,
-      "minVersion": "0.1.121"
+      "minVersion": "0.1.300"
     },
     {
       "platform": "ios",
