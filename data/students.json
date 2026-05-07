@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "name": "James Garcia",
+    "email": "james.garcia56@yahoo.com"
+  },
+  {
+    "id": 2,
+    "name": "Christopher Hernandez",
+    "email": "christopherhernandez@yahoo.com"
+  },
+  {
+    "id": 3,
+    "name": "Joseph Hernandez",
+    "email": "josephhernandez87@hotmail.com"
+  },
+  {
+    "id": 4,
+    "name": "Anthony Taylor",
+    "email": "anthony.taylor60@email.com"
+  },
+  {
+    "id": 5,
+    "name": "Sophia Moore",
+    "email": "sophiamoore25@proton.me"
+  }
+]
