@@ -2,7 +2,7 @@
   "platformMinVersions": [
     {
       "platform": "web",
-      "status": false,
+      "status": true,
       "minVersion": "0.1.300"
     },
     {
