@@ -1,0 +1,19 @@
+{
+  "platformMinVersions": [
+    {
+      "platform": "ios",
+      "status": true,
+      "minVersion": "0.1.999"
+    },
+    {
+      "platform": "android",
+      "status": true,
+      "minVersion": "0.1.999"
+    },
+    {
+      "platform": "huawei",
+      "status": true,
+      "minVersion": "0.1.999"
+    }
+  ]
+}
